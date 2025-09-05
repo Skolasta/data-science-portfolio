@@ -33,6 +33,8 @@ Bu repository, farklı sektörlerde gerçekleştirdiğim veri analizi projelerin
 - **Sonuç:** Animasyon türü en karlı segment olarak belirlendi
 - **Dosyalar:** Türkçe, İngilizce ve Kaggle versiyonları
 
+- **Kaggle:** [Movie Industry Profit Analysis](https://www.kaggle.com/code/mustafagezer/hollywood-s-hidden-secrets)
+
 ### 3. 🛒 RFM Customer Segmentation (Retail)
 **Dosya:** `rfm-customer-segmentation-retail/`
 - **Amaç:** E-ticaret müşterilerinin RFM analizi ile segmentasyonu
@@ -44,6 +46,8 @@ Bu repository, farklı sektörlerde gerçekleştirdiğim veri analizi projelerin
   - `data_inv()`: Veri seti genel inceleme
 - **Sonuç:** Best Customers, Loyal Customers, At Risk müşteri grupları tanımlandı
 - **Dosyalar:** Türkçe ve İngilizce versiyonları
+
+- **Kaggle:** [RFM Customer Segmentation (Retail)](https://www.kaggle.com/code/mustafagezer/rfm-customer-segmentation-retail-en)
 
 ### 4. 🛒 E-commerce TV Price Scraper
 **Dosya:** `ecommerce-price-scraper/`
@@ -77,6 +81,8 @@ Bu repository, farklı sektörlerde gerçekleştirdiğim veri analizi projelerin
 - **Sonuç:** Platform bazlı fiyat karşılaştırması ve pazar analizi
 - **Dosyalar:** Kaggle versiyonu ve örnek veri seti
 - **Not:** Gerçek scraped veriler telif hakkı koruması nedeniyle repository'de bulunmamaktadır
+
+- **Kaggle:** [E-commerce TV Price Analytics](https://www.kaggle.com/code/mustafagezer/turkish-e-commerce-tv-market-trendyol-v-hepsiburad)
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -158,6 +164,8 @@ Her proje gerçek iş problemlerine odaklanmıştır:
 
 ## 📧 İletişim
 Bu projeler hakkında daha fazla bilgi için iletişime geçebilirsiniz.
+- **LinkedIN Profile:** [Mustafa Gezer](https://www.linkedin.com/in/mustafa-gezer-)
+- **Kaggle Profile:** [Mustafa Gezer](https://www.kaggle.com/mustafagezer)
 
 ---
 *Bu portfolio, veri bilimi ve analitik yeteneklerimi sergileyen gerçek dünya projelerini içermektedir.*
