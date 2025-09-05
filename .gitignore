@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (copyright protection)
+*.log
+*.tmp
+*.temp
+
+# E-commerce scraped data (copyright protection)
+*_tv_verileri.csv
+hepsiburada_*.csv
+trendyol_*.csv
+*_verileri.csv
+
+# Specific scraped data files
+ecommerce-price-analytics-turkey/hepsiburada_tv_verileri.csv
+ecommerce-price-analytics-turkey/trendyol_tv_verileri.csv
+
+# Allow legitimate datasets but exclude scraped ones
+# *.xlsx  # Commented out to allow legitimate datasets like Telco_customer_churn.xlsx
+
+# Model files (if large)
+*.pkl
+*.h5
+*.model
+
+# API Keys and Config
+.env
+config.ini
+secrets.json

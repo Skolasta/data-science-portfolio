@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Selenium
+chromedriver
+geckodriver
+*.log
+selenium-debug.log
+
+# Data files
+*.csv
+*.xlsx
+*.json
+!requirements.txt
+
+# Scraped e-commerce data (copyright protection)
+hepsiburada_tv_verileri.csv
+trendyol_tv_verileri.csv
+*_tv_verileri.csv
+*_verileri.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# API Keys and Config
+.env
+config.ini
+secrets.json
+
+# Browser downloads
+downloads/
