@@ -17,6 +17,7 @@ Bu repository, farklı sektörlerde gerçekleştirdiğim veri analizi projelerin
   - `data_inv()`: Veri seti genel inceleme fonksiyonu
 - **Sonuç:** Fiber internet müşterileri için ek hizmet önerileri ve risk grupları belirlendi
 - **Dosyalar:** Türkçe ve Kaggle versiyonları mevcut
+- **Kaggle:** [Telco Churn Analysis Insights](https://www.kaggle.com/code/mustafagezer/telco-churn-analysis-insights-en)
 
 ### 2. 🎬 Movie Industry Profit Analysis  
 **Dosya:** `movie-industry-profit-analysis/`
